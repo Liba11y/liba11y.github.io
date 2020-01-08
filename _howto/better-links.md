@@ -2,15 +2,13 @@
 layout: book-page
 title: Better Links
 permalink: /howto/links/
-summary: 
+summary:
 ---
 # 2.5 Hyperlinks
 
 ## The Interaction
 
-{% hint style="info" %}
 Another method for skimming a webpage with a screen reader is to listen to all of the links on the page.
-{% endhint %}
 
 ## The Solution
 

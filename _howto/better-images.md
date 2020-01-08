@@ -9,9 +9,7 @@ summary:
 
 ## The Interaction
 
-{% hint style="info" %}
 Students using a screen reader will hear the alternative text \(also known as "alt text"\) read aloud when encountering an image on a webpage. Without alt-text, the images become invisible to the reader.
-{% endhint %}
 
 ## Solution: Use Alternative Text to describe your images
 

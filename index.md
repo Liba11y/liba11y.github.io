@@ -1,3 +1,9 @@
+---
+layout: default
+title: Why should we care about accessibility?
+permalink: /index
+summary:
+---
 # Why should we care about accessibility?
 
 ### Universal access has greater than expected benefits
@@ -15,4 +21,3 @@ Providing universal access certainly makes sense from these perspectives, yet mo
 ### **Fear not, the basics are easy**
 
 While making advanced web accessibility may require development experience, making the basic content we all create accessible can be accomplished by us all.
-

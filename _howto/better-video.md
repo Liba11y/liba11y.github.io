@@ -8,9 +8,7 @@ summary:
 
 ## The Interaction
 
-{% hint style="info" %}
 Without alternative access to the content, audio and visual media can leave users who have visual or auditory impairments without access to the content.
-{% endhint %}
 
 ## Solutions: Transcripts and closed captioning
 

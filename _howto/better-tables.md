@@ -8,9 +8,7 @@ summary:
 
 ## The Interaction
 
-{% hint style="info" %}
 Screen readers read column and row headers to provide the listener with information on the tables' content and structure.
-{% endhint %}
 
 ## Solutions
 

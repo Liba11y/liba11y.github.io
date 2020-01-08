@@ -9,11 +9,9 @@ summary: Headings give our content structure and a hierarchy.
 
 ## Screen reader interaction
 
-{% hint style="info" %}
 * Students can quickly skim the contents of our page by listening to the page headings.
 * They can also jump to those points on the page.
 * Your page will be described in a linear fashion so we cannot rely entirely on visual organization. Thus, even our three-column pages are heard as a single column starting with the first column.
-{% endhint %}
 
 ## Solution: Headings give your content logical hierarchy.
 

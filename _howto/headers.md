@@ -4,19 +4,17 @@ Headings act as the headlines within a web document. They provide the content st
 
 ### Screen reader interaction
 
-{% hint style="info" %}
 * Users can quickly skim the contents of a webpage by listening to the page headings. This helps a user understand a page's content structure and hierarchy.
-* Headings also act as page navigation. A person using a screen reader, having listened to the page's headings, can then jump to any heading on a page. 
+* Headings also act as page navigation. A person using a screen reader, having listened to the page's headings, can then jump to any heading on a page.
 * Content is described in a linear fashion by the screen reader. As such, even three-column pages are described as a single column starting with the first column.
-{% endhint %}
 
-### Solution: Use headings to give your content a logical hierarchy. 
+
+### Solution: Use headings to give your content a logical hierarchy.
 
 Use page headings to outline content— not unlike a bulleted page outline or table of contents. Use the headings in order and don't skip headings.
 
 In LibGuides, Heading 1 `<h1>` is reserved for guide titles and Heading 2 `<h2>` is held for box titles. For content within the boxes, use headings 3 to 6. Here's an example of how to use headings to keep content in order.
 
-{% hint style="info" %}
 * **H1 Guide Title**
   * **H2 Box Title**
     * H3 Section inside a box
@@ -28,14 +26,13 @@ In LibGuides, Heading 1 `<h1>` is reserved for guide titles and Heading 2 `<h2>`
     * H3 Section
       * H4 sub-section
       * H4 sub-section
-{% endhint %}
 
 #### How to use headings in LibGuides
 
 ![In LibGuides, you can create headings from the rich text editor&apos;s format drop-down menu](../.gitbook/assets/screen-shot-2019-03-18-at-10.54.14-am.png)
 
 1. Click in the paragraph you want to be a header
-2. Select the level of heading from the paragraph format menu \(pictured above\). 
+2. Select the level of heading from the paragraph format menu \(pictured above\).
 
 #### Additional best practices
 
@@ -50,7 +47,7 @@ In LibGuides, Heading 1 `<h1>` is reserved for guide titles and Heading 2 `<h2>`
 
 #### Using Tota11y
 
-* When you click the Tota11y icon then select the headings button, a window will pop up explaining any errors. The most common errors are heading levels skipped and headings out of order. 
+* When you click the Tota11y icon then select the headings button, a window will pop up explaining any errors. The most common errors are heading levels skipped and headings out of order.
 * This window also has a summary tab \(above\) which shows the sequential and nesting order of your headings. It is easy to see where errors occurred and if your nesting order makes sense.
 * On your page, you will also see small heading notations next to each header so you can see which elements on the page are headings.
 
@@ -63,6 +60,3 @@ In rare instances, you'll find a heading accidentally tagged a subsequent paragr
 #### **Test your page on your cellphone**
 
 Another way to visualize the organization of your page is to view it with a phone browser. Your content will become linear in much the same way it does on a screen reader. If the page does not make sense on a phone, a re-ordering of content will be needed.
-
-
-
