@@ -1,10 +1,15 @@
+---
+layout: book-page
+title: Simple Testing Tools
+permalink: /about/testing-tools/
+---
 # 1.4 Simple accessibility testing tools
 
-In the next section, strategies will be outlined for creating accessible content. But first, let's install a simple tool that can double check your work as it is created. 
+In the next section, strategies will be outlined for creating accessible content. But first, let's install a simple tool that can double check your work as it is created.
 
 ## Install Tota11y, an accessibility visualization tool
 
-The [**Tota11y**](http://khan.github.io/tota11y/) javascript bookmarklet was created by the Kahn Academy to visualize how web content is perceived by screen readers and other assistive technology. 
+The [**Tota11y**](http://khan.github.io/tota11y/) javascript bookmarklet was created by the Kahn Academy to visualize how web content is perceived by screen readers and other assistive technology.
 
 ### Install option 1: bookmarklet <a id="Installation"></a>
 
@@ -55,4 +60,3 @@ We will review many of Tota11y's tools in the following pages as we talk about h
 
   * [Spectrum \(Chrome extension\)](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en)
   * [NoCoffee vision simulator \(Chrome extension\)](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl?hl=en-US)
-

@@ -1,3 +1,8 @@
+---
+layout: book-page
+title: Useful Links
+permalink: /resources/useful-links/
+---
 # A. Useful Links
 
 ## Read More...
@@ -35,10 +40,3 @@
 
 * [ChromeVox screen reader \(Chrome extension\)](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
   * Help file: [Keyboard shortcuts](https://www.chromevox.com/keyboard_shortcuts.html)
-
-
-
-
-
-
-

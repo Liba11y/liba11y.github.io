@@ -1,5 +1,8 @@
 ---
-description: 'Color and text often interact, so we''ll cover both here...'
+layout: book-page
+title: Better Color
+permalink: /howto/color/
+summary: 'Color and text often interact, so we will cover both here...'
 ---
 
 # 2.4 Color and Text
@@ -7,7 +10,7 @@ description: 'Color and text often interact, so we''ll cover both here...'
 ## The Interactions
 
 {% hint style="info" %}
-* **Color and content**: Screen readers cannot verbalize information offered only by color. 
+* **Color and content**: Screen readers cannot verbalize information offered only by color.
 * **Color blindness**: Students with color blindness may not be able to differentiate colors from poorly chosen combinations. For example, green and red symbolizing open and closed.
 * **Low contrast**: Low contrast combinations, such as white on gray or white on yellow, can be very difficult for students with low sight and dyslexia.
 * **Small Text**: Similarly, some people need to enlarge text, alter the font, or line spacing in order to read our content.
@@ -16,7 +19,7 @@ description: 'Color and text often interact, so we''ll cover both here...'
 ## The Solutions
 
 * **Do not rely on color to convey meaning**: Insure web content is understood as easily without color as it is with color. A common approach is to use words as well as colors to convey meaning. For example, a warning message in red should also include wording to make it obvious that it is a warning.
-* **Test color and contrast combinations**: Resources below can help you see how your color combinations will be perceived by someone with color blindness. 
+* **Test color and contrast combinations**: Resources below can help you see how your color combinations will be perceived by someone with color blindness.
 * **Avoid using absolute text sizes**: Older browsers are unable to resize absolute sized text, such as 16px \(pixels\). Thus, if you alter your default text size, use relative sizes where possible \(ie... small and x-large, or 1.5em and 90%\).
 * **Test your color combinations**: Tota11y can help you identify low-constrast color combinations and tools are available to help you visualize your page with color blindness.
 
@@ -31,6 +34,3 @@ description: 'Color and text often interact, so we''ll cover both here...'
 * [**Spectrum color-blindness visualizing tool**](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en): Great Chrome browser extension for seeing how others with varying color-blindness would perceive your content.
 * [**Designing for Color Blindness**](http://webaim.org/articles/visual/colorblind): This WebAIM tutorial provides examples of how color blindness impacts one's sight as well as possible solutions.
 * [**Color Safe**](http://colorsafe.co/): Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios.
-
-
-

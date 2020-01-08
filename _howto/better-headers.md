@@ -1,5 +1,8 @@
 ---
-description: Headings give our content structure and a hierarchy.
+layout: book-page
+title: Better Headers
+permalink: /howto/headers/
+summary: Headings give our content structure and a hierarchy.
 ---
 
 # Headers
@@ -7,12 +10,12 @@ description: Headings give our content structure and a hierarchy.
 ## Screen reader interaction
 
 {% hint style="info" %}
-* Students can quickly skim the contents of our page by listening to the page headings. 
-* They can also jump to those points on the page. 
-* Your page will be described in a linear fashion so we cannot rely entirely on visual organization. Thus, even our three-column pages are heard as a single column starting with the first column. 
+* Students can quickly skim the contents of our page by listening to the page headings.
+* They can also jump to those points on the page.
+* Your page will be described in a linear fashion so we cannot rely entirely on visual organization. Thus, even our three-column pages are heard as a single column starting with the first column.
 {% endhint %}
 
-## Solution: Headings give your content logical hierarchy. 
+## Solution: Headings give your content logical hierarchy.
 
 Use page headings to outline your content— not unlike a bulleted page outline or table of contents. Use the headings in order and don't skip headings.
 
@@ -35,7 +38,7 @@ In LibGuides, Heading 1 `<h1>` is reserved for guide titles and Heading 2 `<h2>`
 ![In LibGuides, you can create headings from the rich text editor&apos;s drop-down menus](../.gitbook/assets/screen-shot-2019-03-18-at-10.54.14-am.png)
 
 1. Click in the paragraph you want to be a header
-2. Select the level of heading from the paragraph format menu \(pictured above\). 
+2. Select the level of heading from the paragraph format menu \(pictured above\).
 
 ### Additional best practices
 
@@ -49,7 +52,7 @@ In LibGuides, Heading 1 `<h1>` is reserved for guide titles and Heading 2 `<h2>`
 
 ### Using Tota11y
 
-* When you click the Tota11y icon and select the headings button, a window will pop up explaining any errors. The most common errors are headings skipped and headings out of order. 
+* When you click the Tota11y icon and select the headings button, a window will pop up explaining any errors. The most common errors are headings skipped and headings out of order.
 * This window also has a summary tab \(above\) which shows the sequential and nesting order of your headings. It is easy to see where errors may occur and if your nesting order makes sense.
 * On your page, you will also see small heading notations next to each header so you can see which elements on the page are headings.
 
@@ -62,6 +65,3 @@ In rare instances, you'll find a heading accidentally tagged a subsequent paragr
 ### **Check your page on your cellphone**
 
 Another way to visualize the organization of your page is to view it with a phone browser. Your content will become linear in much the same way it does on a screen reader. If the page does not make sense on a phone, a re-ordering of content will be needed.
-
-
-

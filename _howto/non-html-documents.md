@@ -1,3 +1,10 @@
+---
+layout: book-page
+title: Better Non-HTML Documents
+permalink: /howto/non-html-documents/
+summary:
+pubished:
+---
 # C. Non-HTML documents
 
 The concepts from web documents can also apply to other documents. However, the implementation may differ. Here are links for tips on making additional file types accessible
@@ -8,4 +15,3 @@ The concepts from web documents can also apply to other documents. However, the 
 * [Adobe Flash](http://webaim.org/techniques/flash/) content.
 
 Recommendations for most of these formats echo those for webpages such as using headings to convey logical flow for a Word document and PDFs.
-

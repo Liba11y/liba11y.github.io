@@ -1,15 +1,21 @@
+---
+layout: book-page
+title: Better Tables
+permalink: /howto/tables/
+summary:
+---
 # 2.6 Tables
 
 ## The Interaction
 
 {% hint style="info" %}
-Screen readers read column and row headers to provide the listener with information on the tables' content and structure. 
+Screen readers read column and row headers to provide the listener with information on the tables' content and structure.
 {% endhint %}
 
 ## Solutions
 
 * Use tables for data that fits well into rows and columns.
-* Do not use tables for formatting pages, links, or other information. 
+* Do not use tables for formatting pages, links, or other information.
 * Always use table headers to describe the contents of the table columns.
 * The table headers should clearly communicate the data below them.
 * Avoid spanned rows as screen readers may not properly parse them.
@@ -31,4 +37,3 @@ Source: [Boston College LibGuides Accessibility Guide](http://libguides.bc.edu/g
 ## Read more...
 
 * [Table Best Practices](http://webaim.org/techniques/tables/)A WebAIM tutorial
-

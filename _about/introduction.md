@@ -1,3 +1,8 @@
+---
+layout: book-page
+title: Introduction
+permalink: /about/introduction/
+---
 # 1.1 Why should we care about accessibility?
 
 > "The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect."  —Tim Berners-Lee, inventor of the World Wide Web
@@ -23,4 +28,3 @@ While implementing advanced web accessibility can require development experience
 ## Read more...
 
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
-

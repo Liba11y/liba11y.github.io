@@ -1,3 +1,9 @@
+---
+layout: book-page
+title: Better Links
+permalink: /howto/links/
+summary: 
+---
 # 2.5 Hyperlinks
 
 ## The Interaction
@@ -10,7 +16,7 @@ Another method for skimming a webpage with a screen reader is to listen to all o
 
 * Link wording should clearly explain its destination and/or intent. Ambiguous phrasing can obscure a link's purpose.
 * Read your links out of context to insure they will stand alone as a screen reader presents them in order.
-* Avoid introductory phrases such as "click here" for a link. 
+* Avoid introductory phrases such as "click here" for a link.
 * Definitely do not use "click here" as a link on its own.
 * Do not use raw web addresses in links as the screen reader will read it aloud the entire URL.
 
@@ -23,9 +29,6 @@ Another method for skimming a webpage with a screen reader is to listen to all o
 
 ## Testing
 
-* Tota11y's "Link Text" option will identify any link that appear unclear. 
+* Tota11y's "Link Text" option will identify any link that appear unclear.
   * On this page for instance it identified the poorly written link examples above.
 * Tip: If the overlays hide the errors, click the annotate checkbox in the errors window. Without the annotations, you can hover over each error and it will be highlighted on the page. If the error is not visible, click the magnifying glass icon to zoom to the error.
-
-
-

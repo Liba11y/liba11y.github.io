@@ -1,3 +1,9 @@
+---
+layout: book-page
+title: Better Video
+permalink: /howto/video/
+summary:
+---
 # 2.3 Video and Audio
 
 ## The Interaction
@@ -12,7 +18,7 @@ Content creators must proactively create multimedia in an accessible manner by i
 
 ### Audio Description
 
-Some video projects will also need audio description. This is a supplemental audio track that describes the visual elements of the video if the primary soundtrack does **not** convey the content through spoken word. 
+Some video projects will also need audio description. This is a supplemental audio track that describes the visual elements of the video if the primary soundtrack does **not** convey the content through spoken word.
 
 ### Externally-created multimedia
 
@@ -20,7 +26,7 @@ These requirements also apply to video not created by the library. For example, 
 
 ## Additional Tips and Notes
 
-* The link to the transcript should be easily identifiable and adjacent to the video. 
+* The link to the transcript should be easily identifiable and adjacent to the video.
 * Keep locally created video tutorials short and to the point.
 * Closed captions should reflect all sound that conveys content. This includes all relevant background noises and sound effects.
 * Ideally, users should be able to control the close captioning during playback such as captioning color and size.
@@ -31,9 +37,9 @@ These requirements also apply to video not created by the library. For example, 
 If a transcript overloads your page with information, you can use the following code to create a show/hide transcript button. This button taps into the Bootstrap framework packaged with LibGuides so additional javascript is not required.
 
 ```markup
-<p><a aria-controls="collapse-transcript" aria-expanded="false" class="btn btn-primary btn-sm" 
+<p><a aria-controls="collapse-transcript" aria-expanded="false" class="btn btn-primary btn-sm"
 data-toggle="collapse" href="#collapse-transcript">Video Transcript</a></p>
-    <div class="collapse" id="collapse-transcript"> 
+    <div class="collapse" id="collapse-transcript">
     <div class="card card-block"> TRANSCRIPT HERE
     </div>
  </div>
@@ -48,4 +54,3 @@ Accessibility testing tools are not as helpful for multimedia as the captions or
 ## Read more...
 
 * [Multimedia accessibility FAQ](https://www.w3.org/2008/06/video-notes)
-

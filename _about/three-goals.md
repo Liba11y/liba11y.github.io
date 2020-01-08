@@ -1,3 +1,8 @@
+---
+layout: book-page
+title: Simple Testing Tools
+permalink: /about/testing-tools/
+---
 # 1.3 Three goals of a well-coded page
 
 Web accessibility has a set of standards called the [Web Content Accessibility Guidelines \(WCAG 2.1\)](https://www.w3.org/TR/WCAG21/). It has dozens of specifications on topics from headers and links to colors and images. To better understand the intent of these specifications, let's group them into three goals.
@@ -19,4 +24,3 @@ For example, a webpage may have a floating window that pops-up asking if the use
 Interactive tools also needs to be properly described. For example, if there are four tabs of content, the site needs to describe to the screen reader which of the four tabs is visible. Without this description, the screen reader simply cannot navigate these interactive features.
 
 Fortunately, much of this functionality is built into modern website management systems such as LibGuides. However, as content creators, we need to be alert to this issue so we  use these interactive elements effectively and correctly coded.
-

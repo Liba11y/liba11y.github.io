@@ -1,3 +1,8 @@
+---
+layout: book-page
+title: Conclusion
+permalink: /resources/conclusion/
+---
 # Conclusion
 
 This guide covered the common accessibility issues and solutions, yet web content often goes beyond simple or common. This is where your institution's accessibility experts and web developers can help! Never be afraid to ask for help as we all benefit. Go forth and create good!
@@ -21,9 +26,6 @@ Was this guide used at your college? Was this guide useful? Run into issues? Do 
 
 Version One was created in 2019 by Jerry Yarnetsky of Miami University, Oxford, Ohio. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## **Finally, what does "LibA11y" mean?** 
+## **Finally, what does "LibA11y" mean?**
 
 Lib ****is for the wonderful world of libraries. **A11y** is a common numeronym for accessibility \(11 being the number of characters between the A and Y.\) Phonetically, a11y makes us allies for universal access.
-
-
-

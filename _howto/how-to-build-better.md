@@ -1,7 +1,10 @@
+---
+layout: book-page
+title: How to Build Better...
+permalink: /howto/build-better/
+---
 # 2.0 How to build better...
 
-In this section, we will go into more details on how assistive technologies are used to access and interact with web content. 
+In this section, we will go into more details on how assistive technologies are used to access and interact with web content.
 
 Each page will focus on a specific aspect of web content, such headings, images, and hyperlinks. The page will start with a description of how the screen reader, or other assistive technology, interprets and allows the user to interact with that element of the page. It will be followed by examples and tips for how you can make powerful contributions to making your content universally accessible.  
-
-

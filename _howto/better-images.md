@@ -1,3 +1,10 @@
+---
+layout: book-page
+title: How to Build Better Images
+permalink: /howto/images/
+summary:
+---
+
 # 2.2 Images
 
 ## The Interaction
@@ -8,7 +15,7 @@ Students using a screen reader will hear the alternative text \(also known as "a
 
 ## Solution: Use Alternative Text to describe your images
 
-Screen readers will read alt text in the place of the image to convey its intended meaning. 
+Screen readers will read alt text in the place of the image to convey its intended meaning.
 
 ### What should be included in the alt text?
 
@@ -21,7 +28,7 @@ Screen readers will read alt text in the place of the image to convey its intend
 * Graphics are purely decorative.
 * Alt text would be repetitive information.
   * For example, the alt text for a book cover might be its title. If the image is next to a catalog link that also features the title, the alt text become redundant.
-* In these cases we still need an alt tag, but it would be empty: 
+* In these cases we still need an alt tag, but it would be empty:
   * `<img src="/images/decorative.jpg" alt="" />`
 
 ### How to add alt-text in LibGuides
@@ -35,7 +42,7 @@ The image properties tool in LibGuides \(below\) provides a space where users ca
 * Click "Image alt-text" in Tota11y.
 * The error window will report if there are any images requiring alt text.
 * Next to the error message you'll see a small magnifying glass. You can click this icon to see which image caused the error.
-* Accessibility testing requires human verification. 
+* Accessibility testing requires human verification.
   * For example, an "empty" alt tag `alt=""` is used for decorative images. This often comes up as an error in accessibility tests. If the image is indeed decorative, don't worry about the error.
 
 ## Read more...
@@ -44,4 +51,3 @@ For best practices on creating alternative text, please consult the links below.
 
 * [WebAIM Alternative Text Guide](http://webaim.org/techniques/alttext/)
 * [Image ALT Tag Tips from Penn State](http://accessibility.psu.edu/images): Gives helpful examples of Alt Text descriptions for different situations.
-
