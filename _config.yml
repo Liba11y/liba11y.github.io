@@ -2,6 +2,9 @@
 title: Liba11y.Github.Io
 timezone: UTC
 collections:
+  about:
+    title: About
+    output: true
   posts:
     title: Posts
     output: true
