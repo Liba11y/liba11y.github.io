@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: liba11y/liba11y.github.io
   branch: master
+  site_domain: https://liba11y.github.io
 
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
 
