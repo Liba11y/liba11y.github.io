@@ -1,8 +1,9 @@
 ---
-layout: book-page
 title: Simple Testing Tools
-permalink: /about/testing-tools/
+permalink: "/about/testing-tools/"
+layout: book-page
 ---
+
 # 1.3 Three goals of a well-coded page
 
 Web accessibility has a set of standards called the [Web Content Accessibility Guidelines \(WCAG 2.1\)](https://www.w3.org/TR/WCAG21/). It has dozens of specifications on topics from headers and links to colors and images. To better understand the intent of these specifications, let's group them into three goals.

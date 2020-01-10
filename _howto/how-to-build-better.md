@@ -1,8 +1,9 @@
 ---
-layout: book-page
 title: How to Build Better...
-permalink: /howto/build-better/
+permalink: "/howto/build-better/"
+layout: book-page
 ---
+
 # 2.0 How to build better...
 
 In this section, we will go into more details on how assistive technologies are used to access and interact with web content.

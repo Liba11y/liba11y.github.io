@@ -1,9 +1,10 @@
 ---
-layout: default
 title: Why should we care about accessibility?
-permalink: /index
-summary:
+permalink: "/index"
+layout: default
+summary: 
 ---
+
 # Why should we care about accessibility?
 
 ### Universal access has greater than expected benefits

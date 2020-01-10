@@ -1,9 +1,10 @@
 ---
-layout: book-page
 title: Better Links
-permalink: /howto/links/
-summary:
+permalink: "/howto/links/"
+layout: book-page
+summary: 
 ---
+
 # 2.5 Hyperlinks
 
 ## The Interaction

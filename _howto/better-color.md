@@ -1,8 +1,8 @@
 ---
-layout: book-page
 title: Better Color
-permalink: /howto/color/
-summary: 'Color and text often interact, so we will cover both here...'
+permalink: "/howto/color/"
+layout: book-page
+summary: Color and text often interact, so we will cover both here...
 ---
 
 # 2.4 Color and Text

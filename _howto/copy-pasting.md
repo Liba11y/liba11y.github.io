@@ -1,9 +1,10 @@
 ---
-layout: book-page
 title: Better Copy-Pasting
-permalink: /howto/copy-pasting/
-summary:
+permalink: "/howto/copy-pasting/"
+layout: book-page
+summary: 
 ---
+
 # Better copy-pasting
 
 ## The hidden problem with copy/paste

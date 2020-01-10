@@ -1,8 +1,9 @@
 ---
-layout: book-page
 title: Useful Links
-permalink: /resources/useful-links/
+permalink: "/resources/useful-links/"
+layout: book-page
 ---
+
 # A. Useful Links
 
 ## Read More...

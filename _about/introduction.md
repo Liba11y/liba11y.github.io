@@ -1,8 +1,9 @@
 ---
-layout: book-page
 title: Introduction
-permalink: /about/introduction/
+permalink: "/about/introduction/"
+layout: book-page
 ---
+
 # 1.1 Why should we care about accessibility?
 
 > "The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect."  —Tim Berners-Lee, inventor of the World Wide Web

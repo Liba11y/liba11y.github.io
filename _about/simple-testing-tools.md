@@ -1,8 +1,9 @@
 ---
-layout: book-page
 title: Simple Testing Tools
-permalink: /about/testing-tools/
+permalink: "/about/testing-tools/"
+layout: book-page
 ---
+
 # 1.4 Simple accessibility testing tools
 
 In the next section, strategies will be outlined for creating accessible content. But first, let's install a simple tool that can double check your work as it is created.

@@ -1,9 +1,10 @@
 ---
-layout: book-page
 title: Better Video
-permalink: /howto/video/
-summary:
+permalink: "/howto/video/"
+layout: book-page
+summary: 
 ---
+
 # 2.3 Video and Audio
 
 ## The Interaction

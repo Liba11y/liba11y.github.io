@@ -1,9 +1,10 @@
 ---
-layout: book-page
 title: Better Tables
-permalink: /howto/tables/
-summary:
+permalink: "/howto/tables/"
+layout: book-page
+summary: 
 ---
+
 # 2.6 Tables
 
 ## The Interaction

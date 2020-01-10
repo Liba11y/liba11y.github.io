@@ -1,8 +1,8 @@
 ---
-layout: book-page
 title: How to Build Better Images
-permalink: /howto/images/
-summary:
+permalink: "/howto/images/"
+layout: book-page
+summary: 
 ---
 
 # 2.2 Images

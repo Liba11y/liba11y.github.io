@@ -1,7 +1,7 @@
 ---
-layout: book-page
 title: Better Headers
-permalink: /howto/headers/
+permalink: "/howto/headers/"
+layout: book-page
 summary: Headings give our content structure and a hierarchy.
 ---
 
