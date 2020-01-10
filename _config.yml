@@ -17,4 +17,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+  howto:
+    title: howto
+    output: true
 theme: jekyll-theme-minimal
