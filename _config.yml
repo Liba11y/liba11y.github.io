@@ -5,6 +5,9 @@ collections:
   about:
     title: About
     output: true
+  how-to:
+    title: How To
+    output: true
   posts:
     title: Posts
     output: true
