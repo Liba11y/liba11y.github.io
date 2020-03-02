@@ -1,5 +1,5 @@
 ---
-title: liba11y.github.io
+title: Liba11y.Github.Io
 timezone: UTC
 collections:
   about:
@@ -17,7 +17,7 @@ collections:
   howto:
     title: howto
     output: true
+  includes:
+    title: includes
+    output: true
 theme: jekyll-theme-minimal
-
-source "https://rubygems.org"
-gem 'github-pages'
