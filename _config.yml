@@ -20,4 +20,4 @@ collections:
   includes:
     title: includes
     output: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
