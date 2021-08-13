@@ -35,8 +35,8 @@ This same tool has also been adapted to be a Chrome and Firefox extension. Insta
 4. Clicking the glasses, you'll see a pop-up menu with choices such as Headers, Contrast, and Image alt-text.
 5. Clicking one of these options will provide information and screen annotations and track any errors.
 6. Dismissing the tools
-   * Clicking the option a second time dismisses the report.
-   * Similarly clicking the glasses again minimizes the tool.
+  * Clicking the option a second time dismisses the report.
+  * Similarly clicking the glasses again minimizes the tool.
 
 This video shows this same process in motion.
 
